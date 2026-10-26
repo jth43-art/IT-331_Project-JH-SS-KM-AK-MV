@@ -1,0 +1,1 @@
+This is the 1st file in the Frontend file, please make folders to segment the files you create. We can discuss the layout of the githubs folder in class.
